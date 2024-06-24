@@ -1,5 +1,9 @@
 # `LiterAlura - Challenge Backend Alura - Oracle Next Education`
----
+
+## Practicando Spring Boot: Challenge Literalura
+
+4️⃣ Cuarto curso de la formación Java y Spring Boot del grupo G6 del curso ONE - Oracle Next Education
+
 ## 📋 `OBJETIVO`: 
 Desarrollar un Catálogo de Libros que ofrezca interacción textual (vía consola) con los usuarios, proporcionando 5 opciones de interacción. Los libros se buscan a través de la API Gutendex (https://gutendex.com/), se tratan y se guardan en una base de datos relacional.
 
